@@ -2,6 +2,7 @@
 - In the field of Clinical Trial
 
 ### Interests:
+- SQL Tuning
 - Python BackEnd
 - Data Engineering
 - Machine Learning
