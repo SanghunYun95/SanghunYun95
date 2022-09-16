@@ -2,6 +2,7 @@
 - In the field of Clinical Trial
 
 ### Interests:
+- Node.js, Nest.js
 - SQL Tuning
 - Python BackEnd
 - Data Engineering
